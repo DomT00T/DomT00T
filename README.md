@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DomT00T
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning node.js , React.js
+- 🌱 I’m currently learning node.js , React.js, Next.js
+- 
 - 📫 How to reach me : nungnung1869@gmail.com
 
 <!---
