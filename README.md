@@ -27,13 +27,12 @@
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; ฉันชอบสำรวจกองเทคโนโลยีใหม่ ๆ และสร้างของเจ๋ง ๆ
+- 📰 &nbsp; อ่านบล็อกเทคโนโลยีทุกครั้งที่ทำได้
+- 🍕 &nbsp; Hackathons การพบปะและกิจกรรมทางเทคโนโลยี
 
 ### Languages and Tools:
-
-
+ 
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
