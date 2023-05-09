@@ -59,7 +59,7 @@
   	    <li><b>Browser: </b> chrome </li>
 	    <li><b>Code Editor:</b> VSCode </li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/DOMT00T/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
