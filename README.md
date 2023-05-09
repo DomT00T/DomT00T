@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [DOMTOOT](https://github.com/DomT00T/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/domtoot)
-[![facebook Badge](https://img.shields.io/badge/-facebook-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/iampavangandhi](https://www.facebook.com/profile.php?id=100003964428706))
+[![facebook Badge](https://img.shields.io/badge/-facebook-0088cc?style=flat-square&logo=facebook&logoColor=white)]([https://t.me/iampavangandhi](https://www.facebook.com/profile.php?id=100003964428706))
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
