@@ -65,6 +65,8 @@
 
 #
 
+⚛️ Certified MySQL <a href="https://www.studysection.com/users/socialMedia/Njc2ODEy/bnVuZ251bmcxODY5QGdtYWlsLmNvbQ==>Here</a>.
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
